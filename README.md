@@ -1,24 +1,5 @@
-# wiblog-portal
+# wordle 猜成语
 
-## Project setup
-```
-yarn install
-```
+## 简介
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+线上地址 [https://word.wiblog.cn/](https://word.wiblog.cn/)
